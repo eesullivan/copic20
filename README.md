@@ -1,5 +1,5 @@
 # COP Project
-Project for the ConocoPhillips Innovation Challenge 2020
+Project for the ConocoPhillips Innovation Challenge 2020 (Winning Submission)
 
 ## Hackathon Overview
 Given two days (20 hours total), the project was to create a machine learning model as well as a front-end product to interact with the model.
